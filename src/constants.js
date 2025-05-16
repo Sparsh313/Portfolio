@@ -190,7 +190,7 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "Love-Nest Backend",
+    title: "Love-Nest",
     description:
       "Developed a Tinder-inspired social matching web application using the MERN stack (MongoDB, Express.js, React.js, Node.js) in this project we have used Socket.IO for WebSocket-driven real-time chat Real-time messaging: implemented bi-directional, low-latency chat with WebSocket connections via Socket.IO, ensuring instant delivery and presence indicators",
     image: githubdetLogo,
@@ -253,5 +253,4 @@ export const projects = [
     github: "https://github.com/Sparsh313/GPT3",
     webapp: "https://shiny-lamington-e2b98f.netlify.app/",
   },
-
 ];
